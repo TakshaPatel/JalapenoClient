@@ -26,3 +26,6 @@ src/main/java/com/
 src/main/java/mcp/
 # opencode internal plan files
 .opencode/
+
+# macOS
+.DS_Store

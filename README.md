@@ -5,6 +5,8 @@ Annotation-driven module system, an event bus, a custom HUD, and 5 built-in modu
 
 > **Disclaimer:** For educational purposes only. Not affiliated with Mojang/Microsoft. See [DISCLAIMER.md](DISCLAIMER.md).
 
+![Demo](demo.png)
+
 ## Features
 
 - **Annotation-based modules** — tag a class with `@ModuleInfo` and it auto-registers via class scanning; no manual wiring.
